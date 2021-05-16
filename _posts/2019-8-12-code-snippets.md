@@ -40,3 +40,9 @@ def say_hello():
 
 say_hello()   // "hello world!"
 ```
+This is a C snippet:
+```c
+int main(int argc, char** argv) {
+    printf("Hello World\n");
+}
+```
